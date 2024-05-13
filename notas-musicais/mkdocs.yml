@@ -1,0 +1,8 @@
+site_name: Notas musicais
+repo_url: https://github.com/kauan1020/notas_musicais
+repo_name: kauan1020/notas_musicais
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  language: pt-BR
